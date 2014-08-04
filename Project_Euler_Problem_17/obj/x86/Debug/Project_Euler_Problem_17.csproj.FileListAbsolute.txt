@@ -1,0 +1,10 @@
+G:\Projects\Project_Euler\Project_Euler_Problem_17\bin\Debug\Project_Euler_Problem_17.exe
+G:\Projects\Project_Euler\Project_Euler_Problem_17\bin\Debug\Project_Euler_Problem_17.pdb
+G:\Projects\Project_Euler\Project_Euler_Problem_17\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\Project_Euler\Project_Euler_Problem_17\obj\x86\Debug\Project_Euler_Problem_17.exe
+G:\Projects\Project_Euler\Project_Euler_Problem_17\obj\x86\Debug\Project_Euler_Problem_17.pdb
+C:\sandbox\projecteuler\Project_Euler_Problem_17\obj\x86\Debug\Project_Euler_Problem_17.exe
+C:\sandbox\projecteuler\Project_Euler_Problem_17\obj\x86\Debug\Project_Euler_Problem_17.pdb
+C:\sandbox\projecteuler\Project_Euler_Problem_17\bin\Debug\Project_Euler_Problem_17.exe
+C:\sandbox\projecteuler\Project_Euler_Problem_17\bin\Debug\Project_Euler_Problem_17.pdb
+C:\sandbox\projecteuler\Project_Euler_Problem_17\obj\x86\Debug\ResolveAssemblyReference.cache

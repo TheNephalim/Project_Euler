@@ -1,0 +1,12 @@
+C:\sandbox\Project_Euler\Project_Euler_25\bin\Debug\Project_Euler_25.exe.config
+C:\sandbox\Project_Euler\Project_Euler_25\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sandbox\Project_Euler\Project_Euler_25\bin\Debug\Project_Euler_25.exe
+C:\sandbox\Project_Euler\Project_Euler_25\bin\Debug\Project_Euler_25.pdb
+C:\sandbox\Project_Euler\Project_Euler_25\obj\x86\Debug\Project_Euler_25.exe
+C:\sandbox\Project_Euler\Project_Euler_25\obj\x86\Debug\Project_Euler_25.pdb
+C:\sandbox\Project_Euler\Project_Euler_Problem_25\bin\Debug\Project_Euler_25.exe.config
+C:\sandbox\Project_Euler\Project_Euler_Problem_25\bin\Debug\Project_Euler_25.exe
+C:\sandbox\Project_Euler\Project_Euler_Problem_25\bin\Debug\Project_Euler_25.pdb
+C:\sandbox\Project_Euler\Project_Euler_Problem_25\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sandbox\Project_Euler\Project_Euler_Problem_25\obj\x86\Debug\Project_Euler_25.exe
+C:\sandbox\Project_Euler\Project_Euler_Problem_25\obj\x86\Debug\Project_Euler_25.pdb

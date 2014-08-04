@@ -1,0 +1,15 @@
+G:\Projects\Project_Euler\Primes\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\Project_Euler\Primes\bin\Debug\Primes.dll
+G:\Projects\Project_Euler\Primes\bin\Debug\Primes.pdb
+G:\Projects\Project_Euler\Primes\obj\Debug\Primes.dll
+G:\Projects\Project_Euler\Primes\obj\Debug\Primes.pdb
+C:\sandbox\Project_Euler\Primes\bin\Debug\Primes.dll
+C:\sandbox\Project_Euler\Primes\bin\Debug\Primes.pdb
+C:\sandbox\Project_Euler\Primes\obj\Debug\ResolveAssemblyReference.cache
+C:\sandbox\Project_Euler\Primes\obj\Debug\Primes.dll
+C:\sandbox\Project_Euler\Primes\obj\Debug\Primes.pdb
+C:\sandbox\projecteuler\Primes\bin\Debug\Primes.dll
+C:\sandbox\projecteuler\Primes\bin\Debug\Primes.pdb
+C:\sandbox\projecteuler\Primes\obj\Debug\ResolveAssemblyReference.cache
+C:\sandbox\projecteuler\Primes\obj\Debug\Primes.dll
+C:\sandbox\projecteuler\Primes\obj\Debug\Primes.pdb

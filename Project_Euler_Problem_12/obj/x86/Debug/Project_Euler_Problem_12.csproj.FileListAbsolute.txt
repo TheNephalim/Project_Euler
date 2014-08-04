@@ -1,0 +1,6 @@
+G:\Projects\Project_Euler\Project_Euler_Problem_12\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\Project_Euler\Project_Euler_Problem_12\bin\Debug\Project_Euler_Problem_12.exe
+G:\Projects\Project_Euler\Project_Euler_Problem_12\bin\Debug\Project_Euler_Problem_12.pdb
+G:\Projects\Project_Euler\Project_Euler_Problem_12\obj\x86\Debug\Project_Euler_Problem_12.exe
+G:\Projects\Project_Euler\Project_Euler_Problem_12\obj\x86\Debug\Project_Euler_Problem_12.pdb
+G:\Projects\Project_Euler\Project_Euler_Problem_12\bin\Debug\primes.txt

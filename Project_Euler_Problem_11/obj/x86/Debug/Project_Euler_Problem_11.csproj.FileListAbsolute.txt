@@ -1,0 +1,16 @@
+G:\Projects\Project_Euler\Project_Euler_Problem_11\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\Project_Euler\Project_Euler_Problem_11\bin\Debug\Project_Euler_Problem_11.exe
+G:\Projects\Project_Euler\Project_Euler_Problem_11\bin\Debug\Project_Euler_Problem_11.pdb
+G:\Projects\Project_Euler\Project_Euler_Problem_11\bin\Debug\Matrices.dll
+G:\Projects\Project_Euler\Project_Euler_Problem_11\bin\Debug\Matrices.pdb
+G:\Projects\Project_Euler\Project_Euler_Problem_11\obj\x86\Debug\Project_Euler_Problem_11.exe
+G:\Projects\Project_Euler\Project_Euler_Problem_11\obj\x86\Debug\Project_Euler_Problem_11.pdb
+G:\Projects\Project_Euler\Project_Euler_Problem_11\bin\Debug\Matrix.txt
+C:\sandbox\projecteuler\Project_Euler_Problem_11\bin\Debug\Matrix.txt
+C:\sandbox\projecteuler\Project_Euler_Problem_11\bin\Debug\Project_Euler_Problem_11.exe
+C:\sandbox\projecteuler\Project_Euler_Problem_11\bin\Debug\Project_Euler_Problem_11.pdb
+C:\sandbox\projecteuler\Project_Euler_Problem_11\bin\Debug\Matrices.dll
+C:\sandbox\projecteuler\Project_Euler_Problem_11\bin\Debug\Matrices.pdb
+C:\sandbox\projecteuler\Project_Euler_Problem_11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sandbox\projecteuler\Project_Euler_Problem_11\obj\x86\Debug\Project_Euler_Problem_11.exe
+C:\sandbox\projecteuler\Project_Euler_Problem_11\obj\x86\Debug\Project_Euler_Problem_11.pdb

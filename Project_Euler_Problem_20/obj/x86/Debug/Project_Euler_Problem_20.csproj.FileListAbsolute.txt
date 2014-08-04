@@ -1,0 +1,6 @@
+C:\sandbox\Project_Euler\Project_Euler_Problem_20\bin\Debug\Project_Euler_Problem_20.exe
+C:\sandbox\Project_Euler\Project_Euler_Problem_20\bin\Debug\Project_Euler_Problem_20.pdb
+C:\sandbox\Project_Euler\Project_Euler_Problem_20\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sandbox\Project_Euler\Project_Euler_Problem_20\obj\x86\Debug\Project_Euler_Problem_20.exe
+C:\sandbox\Project_Euler\Project_Euler_Problem_20\obj\x86\Debug\Project_Euler_Problem_20.pdb
+C:\sandbox\Project_Euler\Project_Euler_Problem_20\bin\Debug\Project_Euler_Problem_20.exe.config

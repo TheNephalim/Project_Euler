@@ -1,0 +1,10 @@
+G:\Projects\Project_Euler\Matrices\bin\Debug\Matrices.dll
+G:\Projects\Project_Euler\Matrices\bin\Debug\Matrices.pdb
+G:\Projects\Project_Euler\Matrices\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\Project_Euler\Matrices\obj\Debug\Matrices.dll
+G:\Projects\Project_Euler\Matrices\obj\Debug\Matrices.pdb
+C:\sandbox\projecteuler\Matrices\bin\Debug\Matrices.dll
+C:\sandbox\projecteuler\Matrices\bin\Debug\Matrices.pdb
+C:\sandbox\projecteuler\Matrices\obj\Debug\ResolveAssemblyReference.cache
+C:\sandbox\projecteuler\Matrices\obj\Debug\Matrices.dll
+C:\sandbox\projecteuler\Matrices\obj\Debug\Matrices.pdb
