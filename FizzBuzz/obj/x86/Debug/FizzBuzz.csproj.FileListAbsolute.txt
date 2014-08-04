@@ -1,0 +1,10 @@
+C:\sandbox\projecteuler\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sandbox\projecteuler\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\sandbox\projecteuler\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\sandbox\projecteuler\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+C:\sandbox\projecteuler\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
+G:\Projects\Project_Euler\FizzBuzz\bin\Debug\FizzBuzz.exe
+G:\Projects\Project_Euler\FizzBuzz\bin\Debug\FizzBuzz.pdb
+G:\Projects\Project_Euler\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\Project_Euler\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+G:\Projects\Project_Euler\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
